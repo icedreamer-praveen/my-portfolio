@@ -543,20 +543,24 @@ img{
     width: 80%;
 }
 
+.skills__bootstrap{
+    width: 55%;
+}
+
 .skills__js{
     width: 60%;
 }
 
 .skills__react{
-    width: 85%;
+    width: 35%;
 }
 
-.skills__php{
-    width: 70%;
+.skills__socket{
+    width: 50%;
 }
 
-.skills__node{
-    width: 80%;
+.skills__fastapi{
+    width: 55%;
 }
 
 .skills__firebase{
@@ -564,19 +568,55 @@ img{
 }
 
 .skills__python{
-    width: 90%;
+    width: 80%;
+}
+
+.skills__django{
+    width: 85%;
+}
+
+.skills__amazon{
+    width: 40%;
+}
+
+.skills__sql{
+    width: 60%;
+}
+
+.skills__c{
+    width: 65%;
+}
+
+.skills__docker{
+    width: 65%;
+}
+
+.skills__cd{
+    width: 50%;
+}
+
+.skills__elastic{
+    width: 45%;
 }
 
 .skills__figma{
-    width: 90%;
+    width: 60%;
 }
 
 .skills__sketch{
-    width: 85%;
+    width: 50%;
 }
 
 .skills__photoshop{
-    width: 85%;
+    width: 35%;
+}
+
+.skills__blender{
+    width: 35%;
+}
+
+.skills__draw{
+    width: 70%;
 }
 
 .skills__close .skills__list{
