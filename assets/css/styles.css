@@ -560,7 +560,7 @@ img{
 }
 
 .skills__fastapi{
-    width: 55%;
+    width: 75%;
 }
 
 .skills__firebase{
@@ -576,11 +576,11 @@ img{
 }
 
 .skills__geodjango{
-    width: 85%;
+    width: 70%;
 }
 
 .skills__geoserver{
-    width: 80%;
+    width: 60%;
 }
 
 .skills__amazon{
